@@ -49,6 +49,7 @@
 - Expressing an Image Stream with a Sequence of Natural Sentences [paper](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences) [paper](http://papers.nips.cc/paper/5776-expressing-an-image-stream-with-a-sequence-of-natural-sentences.pdf) [paper](http://www.cs.cmu.edu/~gunhee/publish/nips15_stream2text.pdf) [code](https://github.com/cesc-park/CRCN) 
 
 ## 2014
+- Explain Images with Multimodal Recurrent Neural Networks [paper](https://arxiv.org/pdf/1410.1090.pdf)
 - Long-term Recurrent Convolutional Networks for Visual Recognition and Description [paper](http://arxiv.org/abs/1411.4389) [caffe](https://github.com/BVLC/caffe/pull/2033)
 - Show and Tell: A Neural Image Caption Generator [paper](http://arxiv.org/abs/1411.4555) [tf](https://github.com/zsdonghao/Image-Captioning)
 - Learning a Recurrent Visual Representation for Image Caption Generation [paper](http://arxiv.org/abs/1411.5654)
