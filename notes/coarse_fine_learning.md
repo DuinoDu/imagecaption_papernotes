@@ -1,3 +1,5 @@
+## [Stack-Captioning: Coarse-to-Fine Learning for Image Captioning](https://arxiv.org/abs/1709.03376)
+
 The authors extend LSTM decoder into multi stages, where the latter stage gives captions with more details. To cope with coarse-to-fine decoders, stacked attention model is proposed to provide different attentions on image.
 
 Contributes:
