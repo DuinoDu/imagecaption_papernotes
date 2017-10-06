@@ -26,6 +26,7 @@
 - A Hierarchical Approach for Generating Descriptive Image Paragraphs [paper](https://arxiv.org/abs/1611.06607)
 - Dense Captioning with Joint Inference and Visual Context [paper](https://arxiv.org/abs/1611.06949)
 - Optimization of image description metrics using policy gradient methods [paper](https://arxiv.org/abs/1612.00370)
+- Self-critical Sequence Training for Image Captioning [paper](https://arxiv.org/pdf/1612.00563.pdf) [pytorch](https://github.com/ruotianluo/self-critical.pytorch)
 - Areas of Attention for Image Captioning [paper](https://arxiv.org/abs/1612.01033)
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning [paper](https://arxiv.org/abs/1612.01887) [code](https://github.com/jiasenlu/AdaptiveAttention)
 - Recurrent Image Captioner: Describing Images with Spatial-Invariant Transformation and Attention Filtering [paper](https://arxiv.org/abs/1612.04949)
