@@ -6,7 +6,7 @@
 - Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner [paper](https://arxiv.org/abs/1705.00930)
 - Actor-Critic Sequence Training for Image Captioning [paper](https://arxiv.org/abs/1706.09601)
 - What is the Role of Recurrent Neural Networks (RNNs) in an Image Caption Generator? [paper](https://arxiv.org/abs/1708.02043)
-- Stack-Captioning: Coarse-to-Fine Learning for Image Captioning [paper](https://arxiv.org/abs/1709.03376)
+- Stack-Captioning: Coarse-to-Fine Learning for Image Captioning [paper](https://arxiv.org/abs/1709.03376) [note](notes/coarse_fine_learning.md)
 - Self-Guiding Multimodal LSTM - when we do not have a perfect training dataset for image captioning [paper](https://arxiv.org/abs/1709.05038)
 
 ## 2016
