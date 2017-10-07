@@ -28,7 +28,7 @@ def convert(args):
                 cur_seg += line
                 cur_seg += ' '
     
-    with open(args.ouput, 'w') as fid:
+    with open(args.output, 'w') as fid:
         for line in new_lines:
             fid.write(line)
     print('Saved')
